@@ -15,12 +15,12 @@ https://wiki.sei.cmu.edu/confluence/display/java/EXP00-J.+Do+not+ignore+values+r
 https://wiki.sei.cmu.edu/confluence/display/java/NUM03-J.+Use+integer+types+that+can+fully+represent+the+possible+range+of++unsigned+data)
 - R04_STR03_J.java - [Do not encode noncharacter data as a string](
 https://wiki.sei.cmu.edu/confluence/display/java/STR03-J.+Do+not+encode+noncharacter+data+as+a+string)
-- R06_MET01_J.java - [Never use assertions to validate method arguments](
+- R06_MET01_J.java - [Never use assertions to validate method arguments](
 https://wiki.sei.cmu.edu/confluence/display/java/MET01-J.+Never+use+assertions+to+validate+method+arguments)
 
 ## Five Rules Selected by Myself
 
-- R01_DCL02_J.java - [Do not modify the collection's elements during an enhanced for statement](
+- R01_DCL02_J.java - [Do not modify the collection's elements during an enhanced for statement](
 https://wiki.sei.cmu.edu/confluence/display/java/DCL02-J.+Do+not+modify+the+collection%27s+elements+during+an+enhanced+for+statement)
 - R05_OBJ01_J.java - [Limit accessibility of fields](
 https://wiki.sei.cmu.edu/confluence/display/java/OBJ01-J.+Limit+accessibility+of+fields)
